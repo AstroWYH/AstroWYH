@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+C++基础知识整理笔记：https://github.com/AstroWYH/Cpp-Basic-Notes
+
 <!--
 **AstroWYH/AstroWYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
