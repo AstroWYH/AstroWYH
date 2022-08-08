@@ -4,7 +4,7 @@
 
 C++各类基础知识整理：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 
-LeetCode刷题笔记：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
+LeetCode刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 
 Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
 
