@@ -18,13 +18,13 @@ Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://
 
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
 
-手写一个Android相机APP，带多种Shader滤镜效果：（等待更新...）
+### 🤔实践类
+
+手写一个Android相机APP，用OpenGL/Glsl实现多种Shader滤镜效果，用Mediapipe作为C++框架，用JNI链接两者：（等待更新...）
 
 Shader Toy初步试探：（等待更新...）
 
-
-
-#### 🔭工具类
+### 🔭工具类
 
 Linux/Windows环境各类开发环境配置：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
 
