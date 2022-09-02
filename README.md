@@ -20,7 +20,7 @@ Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games
 
 ### 🤔实践类
 
-手写一个Android/Java相机APP，用OpenGL/Glsl实现多种滤镜效果，用Mediapipe作为C++框架，用JNI链接两者：[YooHanPark](https://github.com/AstroWYH/YooHanPark)
+手写一个Android/Java相机APP，用OpenGL/Glsl实现多种滤镜效果，用Mediapipe作为C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)
 
 Shader Toy初步试探：（等待更新...）
 
