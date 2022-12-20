@@ -6,11 +6,11 @@ C++各类基础知识整理：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-
 
 LeetCode刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 
+设计模式实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
+
 图形学、OpenGL、Glsl、Unity Shader常用知识整理：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
 
 图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
-
-设计模式实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
 Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
 
