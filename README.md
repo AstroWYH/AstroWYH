@@ -22,7 +22,7 @@ Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://
 
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
 
-Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
+MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
 
 ### 🤔实践类
 
