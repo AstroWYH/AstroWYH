@@ -8,6 +8,8 @@ LeetCode刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Not
 
 设计模式手写实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
+并发多线程整理笔记：[Concurrency-MT-Notes](https://github.com/AstroWYH/Concurrency-MT-Notes)
+
 图形学、OpenGL、Glsl、Unity Shader常用知识整理：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
 
 图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
