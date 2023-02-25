@@ -4,7 +4,7 @@
 
 C++各类基础知识整理：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 
-LeetCode刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
+LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 
 设计模式手写实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
