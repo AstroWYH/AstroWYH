@@ -12,6 +12,8 @@ LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/As
 
 图形学、OpenGL、Glsl、Unity Shader常用知识整理：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
 
+机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
+
 图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
 
 Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
