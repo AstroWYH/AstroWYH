@@ -18,7 +18,7 @@ LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/As
 
 Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
 
-工具、脚本、自测稳定测试代码积累：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
+工具、脚本、小型测试代码积累：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
 
 LearnOpenGLCN在线开源课程学习与代码注释：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
 
