@@ -1,6 +1,6 @@
 ## 欢迎来访宇航技术笔记
 
-### 🌱知识类
+### 🌱技能类
 
 C++各类基础知识整理：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 
@@ -27,8 +27,6 @@ Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
 
 MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
-
-### 🤔实践类
 
 手写一个Android/Java相机APP，用OpenGL/Glsl实现多种滤镜效果，用Mediapipe作为C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)（待更新...）
 
