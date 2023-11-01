@@ -1,26 +1,30 @@
 ## 欢迎来访宇航技术笔记
 
-### 🌱技能类
+### 🌱基础
 
-C++各类基础知识整理：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
+C++各类基础知识笔记：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 
 LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 
 设计模式手写实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
-并发多线程整理笔记：[Concurrency-MT-Notes](https://github.com/AstroWYH/Concurrency-MT-Notes)
+工具、脚本、小型测试代码：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
 
-图形学、OpenGL、Glsl、Unity Shader常用知识整理：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
+### 🌱游戏
 
-高性能计算、Gpu(Cuda/OpenCL)、Cpu(SIMD/ArmNeon)指令加速笔记整理：[HPC-Notes](https://github.com/AstroWYH/HPC-Notes)
+UE5虚幻引擎技术笔记：开发中...
 
-机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
+UE5从C++反射到Lua：开发中...
+
+Unity入门游戏引擎开发Demo：[Unity-UE5-Demo](https://github.com/AstroWYH/Unity-UE5-Demo)
+
+### 🌱图形&图像
+
+图形学、OpenGL、Glsl、Unity Shader常用知识笔记：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
 
 图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
 
-Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
-
-工具、脚本、小型测试代码积累：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
+机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
 
 LearnOpenGLCN在线开源课程学习与代码注释：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
 
@@ -28,23 +32,33 @@ Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://
 
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
 
+Shader Toy初步试探：待更新...
+
+### 🌱性能优化
+
+并发多线程整理笔记：[Concurrency-MT-Notes](https://github.com/AstroWYH/Concurrency-MT-Notes)
+
+高性能计算、Gpu(Cuda/OpenCL)、Cpu(SIMD/ArmNeon)指令加速笔记：[HPC-Notes](https://github.com/AstroWYH/HPC-Notes)
+
 MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
+
+### 🌱Android相机
 
 手写一个Android/Java相机APP，用OpenGL/Glsl实现多种滤镜效果，用Mediapipe作为C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)（待更新...）
 
-Unity/UE5游戏引擎开发Demo：[Unity-UE5-Demo](https://github.com/AstroWYH/Unity-UE5-Demo)
+Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
 
-Shader Toy初步试探：（待更新...）
+### 🌱IDE调教
 
-### 🔭工具类
-
-Linux/Windows环境各类开发环境配置：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
+Linux/Windows环境开发适配：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
 
 VsCode自用工具、插件、快捷键、主题：[VsCode-Configs](https://github.com/AstroWYH/VsCode-Configs)
 
 Android Studio自用工具、插件、快捷键、主题：[Android-Studio-Configs](https://github.com/AstroWYH/Android-Studio-Configs)
 
+Visual Studio 2022自用工具、插件、快捷键、主题：待更新...
 
+Rider自用工具、插件、快捷键、主题：待更新...
 
 <!--
 **AstroWYH/AstroWYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
