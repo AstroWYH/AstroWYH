@@ -6,6 +6,8 @@ C++各类基础知识笔记：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-
 
 LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 
+Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
+
 23种设计模式手写实现笔记（待完善）：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
 工具、脚本、小型测试代码：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
@@ -42,6 +44,8 @@ Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://
 
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
 
+手写一个Android/Java相机APP，用OpenGL/Glsl实现多种滤镜效果，用Mediapipe作为C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)（待更新...）
+
 Shader Toy初步试探：待更新...
 
 ### 🌱 性能优化
@@ -51,12 +55,6 @@ Shader Toy初步试探：待更新...
 高性能计算、Gpu(Cuda/OpenCL)、Cpu(SIMD/ArmNeon)指令加速笔记：[HPC-Notes](https://github.com/AstroWYH/HPC-Notes)
 
 MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
-
-### 🌱 Android相机
-
-手写一个Android/Java相机APP，用OpenGL/Glsl实现多种滤镜效果，用Mediapipe作为C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)（待更新...）
-
-Android Dev工程开发问题积累笔记：[Android-Dev-Issues](https://github.com/AstroWYH/Android-Dev-Issues)
 
 ### 🌱 IDE调教
 
