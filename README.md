@@ -28,7 +28,7 @@ Unity入门Demo Runaball：[Unity-Runaball-Demo](https://github.com/AstroWYH/Uni
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) & [FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
 
-UE5死寂课程学习（谌家城版）：[UE5-Siji](https://github.com/AstroWYH/UE5-Siji)
+UE5死寂课程学习（谌家诚版）：[UE5-Siji](https://github.com/AstroWYH/UE5-Siji)（待更新...）
 
 ### 🌱 图形 & 图像
 
