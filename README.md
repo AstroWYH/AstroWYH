@@ -16,7 +16,7 @@ Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/
 
 UE5虚幻引擎技术笔记（模块、插件、框架流程等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
 
-UE5从C++反射到蓝图/Lua（原理和一套可用的代码）：待更新...
+UE5从C++反射到蓝图/Lua（原理和一套可用的代码）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 
 UE5智能指针笔记（TSharedPtr、TUniquePtr、TWeakPtr等）源码分析和使用：待更新...
 
