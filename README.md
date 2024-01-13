@@ -34,7 +34,7 @@ UE5&Unity入门轻量级游戏：[UE5-Unity-LightGames](https://github.com/Astro
 
 机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
 
-LearnOpenGLCN在线开源课程学习与代码注释：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
+LearnOpenGLCN在线开源课程学习&代码注释：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
 
 Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://github.com/AstroWYH/Games101-Render-Pipeline-Homework)
 
