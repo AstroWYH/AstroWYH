@@ -40,7 +40,7 @@ Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://
 
 Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
 
-手写Android/Java相机APP，OpenGL/Glsl作多滤镜效果，Mediapipe作C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)（待更新...）
+手写Android/Java相机APP，OpenGL/Glsl作多滤镜效果，Mediapipe作C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)
 
 ### 🌱 性能优化
 
