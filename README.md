@@ -24,7 +24,7 @@ UE5&Unity入门轻量级游戏：[UE5-Unity-LightGames](https://github.com/Astro
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) & [FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
 
-UE5死寂课程学习（谌家诚版）：[UE5-Siji](https://svnbucket.com/detail/829902)
+UE5死寂课程学习（谌家诚版）：[UE5-Siji-SVN](https://svnbucket.com/detail/829902)
 
 ### 🌱 图形 & 图像
 
