@@ -54,7 +54,7 @@ MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github
 
 ### 🌱 IDE调教
 
-Linux/Windows环境开发适配：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
+Windows/Linux/Mac环境开发适配：[Dev-Environment](https://github.com/AstroWYH/Dev-Environment)
 
 Visual Studio 2022/VsCode/Rider自用工具、插件、快捷键、主题：[IDE-Configs](https://github.com/AstroWYH/IDE-Configs)
 
