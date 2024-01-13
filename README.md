@@ -20,7 +20,7 @@ UE5从C++反射到蓝图/Lua（原理和一套可用的代码）：[Lua-C-Notes]
 
 UE5 C++制作RPG完整角色扮演游戏Aura：[xxx]
 
-UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) & [FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
+UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
 UE5死寂课程学习（谌家诚版）：[UE5-Siji-SVN](https://svnbucket.com/detail/829902)
 
