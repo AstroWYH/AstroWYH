@@ -56,13 +56,9 @@ MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github
 
 Linux/Windows环境开发适配：[Linux-Win-Dev-Environment](https://github.com/AstroWYH/Linux-Win-Dev-Environment)
 
-VsCode自用工具、插件、快捷键、主题：[VsCode-Configs](https://github.com/AstroWYH/VsCode-Configs)
+Visual Studio 2022/VsCode/Rider自用工具、插件、快捷键、主题：[VsCode-Configs](https://github.com/AstroWYH/VsCode-Configs)
 
 Android Studio自用工具、插件、快捷键、主题：[Android-Studio-Configs](https://github.com/AstroWYH/Android-Studio-Configs)
-
-Visual Studio 2022自用工具、插件、快捷键、主题：待更新...
-
-Rider自用工具、插件、快捷键、主题：待更新...
 
 <!--
 **AstroWYH/AstroWYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
