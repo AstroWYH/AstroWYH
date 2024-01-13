@@ -14,21 +14,17 @@ Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/
 
 ### 🌱 游戏
 
-UE5虚幻引擎技术笔记（模块、插件、框架流程等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
+UE5虚幻引擎技术笔记（模块、插件、框架流程；智能指针、委托、多线程等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
 
 UE5从C++反射到蓝图/Lua（原理和一套可用的代码）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 
-UE5智能指针笔记（TSharedPtr、TUniquePtr、TWeakPtr等）源码分析和使用：待更新...
-
-UE5委托笔记（单播、多播、动态多播等）源码分析和使用：待更新...
-
-UE5多线程笔记（Runable、GraphTask、AsyncTask等）源码分析和使用：待更新...
+UE5C++制作RPG完整角色扮演游戏Aura：[xxx]
 
 UE5&Unity入门轻量级游戏：[UE5-Unity-LightGames](https://github.com/AstroWYH/UE5-Unity-LightGames)
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) & [FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
 
-UE5死寂课程学习（谌家诚版）：[UE5-Siji](https://github.com/AstroWYH/UE5-Siji)（待更新...）
+UE5死寂课程学习（谌家诚版）：[UE5-Siji]([https://github.com/AstroWYH/UE5-Siji](https://svnbucket.com/detail/829902))
 
 ### 🌱 图形 & 图像
 
