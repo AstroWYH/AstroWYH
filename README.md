@@ -22,7 +22,7 @@ UE5 C++制作RPG完整GAS角色扮演游戏Aura：[UE5-Cpp-Aura](https://github.
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
-UE5死寂课程学习（谌家诚版）：[UE5-Siji-SVN](https://svnbucket.com/detail/829902)
+UE5死寂课程学习（谌家诚版）：[UE5-BP-Siji](https://github.com/AstroWYH/UE5-BP-Siji) & [UE5-Siji-SVN](https://svnbucket.com/detail/829902)
 
 UE5&Unity入门轻量级游戏：[UE5-Unity-LightGames](https://github.com/AstroWYH/UE5-Unity-LightGames)
 
