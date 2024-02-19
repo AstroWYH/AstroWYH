@@ -16,7 +16,7 @@ Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/
 
 UE5虚幻引擎技术笔记（模块/插件/框架/D3D12/渲染/智能指针/委托/多线程等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
 
-UE5从C++反射到蓝图/Lua（原理和一套可用的代码）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
+UE5从C++反射到蓝图/Lua（一套可用的代码进行中）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 
 UE5 C++制作RPG完整GAS角色扮演游戏Aura：[UE5-Cpp-Aura](https://github.com/AstroWYH/UE5-Cpp-Aura)
 
