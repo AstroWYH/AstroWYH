@@ -18,7 +18,7 @@ UE5虚幻引擎技术笔记（模块/插件/框架/D3D12/渲染/智能指针/委
 
 UE5从C++反射到蓝图/Lua（一套可用的代码进行中）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 
-UE5 C++制作RPG完整GAS角色扮演游戏Aura：[UE5-Cpp-Aura](https://github.com/AstroWYH/UE5-Cpp-Aura)
+UE5 C++制作RPG完整GAS角色扮演游戏Aura（进行中）：[UE5-Cpp-Aura](https://github.com/AstroWYH/UE5-Cpp-Aura)
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
