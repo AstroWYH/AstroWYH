@@ -8,7 +8,7 @@ LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/As
 
 Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
 
-23种设计模式手写实现笔记（待完善）：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
+23种设计模式手写实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
 工具、脚本、小型测试代码：[Code-Accumulation](https://github.com/AstroWYH/Code-Accumulation)
 
