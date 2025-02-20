@@ -22,8 +22,6 @@ UE5 C++制作RPG完整GAS角色扮演游戏Aura（进行中）：[UE5-Cpp-Aura](
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
-UE5死寂课程学习（谌家诚版）：[UE5-BP-Siji](https://github.com/AstroWYH/UE5-BP-Siji) & [UE5-Siji-SVN](https://svnbucket.com/detail/829902)
-
 Unity游戏：[Unity-LightChaser](https://github.com/AstroWYH/Unity-LightChaser) & [Unity-FarmStory](https://github.com/AstroWYH/Unity-FarmStory)
 
 ### 🌱 图形 & 图像
