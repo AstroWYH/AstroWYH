@@ -29,7 +29,7 @@
 
 ### ⚡ **性能优化**
 
-- **Android 开发性能功耗问题笔记**: [Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
+- **Android Dev 性能功耗问题笔记**: [Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
 - **并发高性能计算笔记**: [Concurrency-MT-Notes](https://github.com/AstroWYH/Concurrency-MT-Notes)
   - GPU (Cuda/OpenCL) / CPU (SIMD/ArmNeon) 指令加速
 - **MIT Pess 性能工程课程作业**: [Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
