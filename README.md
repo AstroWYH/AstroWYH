@@ -12,9 +12,9 @@ LeetCode数据结构&算法刷题：[LeetCode-Notes](https://github.com/AstroWYH
 
 UE5虚幻引擎技术笔记（模块/插件/框架/D3D12/渲染/智能指针/委托/多线程等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
 
-UE5从C++反射到蓝图/Lua（流程打通）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
+UE5从C++反射到蓝图/Lua最小实现工程：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 
-UE5 C++制作RPG完整GAS角色扮演游戏Aura：[UE5-Cpp-Aura](https://github.com/AstroWYH/UE5-Cpp-Aura)
+UE5渲染Shader&Render管线最小实现工程：[Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo)
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
@@ -30,11 +30,11 @@ LearnOpenGL在线课程学习作业：[LearnOpenGLCN-Notes](https://github.com/A
 
 Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://github.com/AstroWYH/Games101-Render-Pipeline-Homework)
 
-Android Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
-
 手写Android/Java相机APP，OpenGL/Glsl作多滤镜效果，Mediapipe作C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)
 
 ### 🌱 性能优化
+
+Android Dev开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
 
 并发多线程整理笔记：[Concurrency-MT-Notes](https://github.com/AstroWYH/Concurrency-MT-Notes)
 
@@ -46,9 +46,7 @@ MIT Pess软件系统性能工程课程作业：[Pess-Class-Notes](https://github
 
 Windows/Linux/Mac环境开发适配：[Dev-Environment](https://github.com/AstroWYH/Dev-Environment)
 
-Visual Studio 2022/VsCode/Rider自用工具、插件、快捷键、主题：[IDE-Configs](https://github.com/AstroWYH/IDE-Configs)
-
-Android Studio自用工具、插件、快捷键、主题：[Android-Studio-Configs](https://github.com/AstroWYH/Android-Studio-Configs)
+Visual Studio 2022/VsCode/Rider/AS自用工具、插件、快捷键、主题：[IDE-Configs](https://github.com/AstroWYH/IDE-Configs)
 
 <!--
 **AstroWYH/AstroWYH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
