@@ -34,7 +34,7 @@
   - GPU (Cuda/OpenCL) / CPU (SIMD/ArmNeon) 指令加速
 - **MIT Pess 性能工程课程作业**: [Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
 
-### 🛠️ **IDE 配置**
+### 🛠️ **IDE 环境**
 
 - **跨平台开发环境配置**: [Dev-Environment](https://github.com/AstroWYH/Dev-Environment)
   - Windows / Linux / Mac
