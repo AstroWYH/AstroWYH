@@ -10,15 +10,19 @@ LeetCode数据结构&算法刷题：[LeetCode-Notes](https://github.com/AstroWYH
 
 ### 🌱 游戏
 
-UE5虚幻引擎技术笔记（模块/插件/框架/D3D12/渲染/智能指针/委托/多线程等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
+UE5虚幻引擎技术笔记（框架/工具/网络/性能/渲染/AI/Lua/Lyra等）：[UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
 
-UE5从C++反射到蓝图/Lua最小实现工程：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
+UE5从C++反射到蓝图/Lua最小工程实现（暂Private）：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 
-UE5渲染Shader&Render管线最小实现工程：[Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo)
+UE5渲染Shader&Render管线最小工程实现（暂Private）：[Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo)
+
+UE5背包系统MVC最小工程实现（暂Private）：[Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory)
 
 UE5蓝图/C++完全代码对照入门Demo：[FirstPerson-Demo-UE5-BP ](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
-Unity游戏：[Unity-LightChaser](https://github.com/AstroWYH/Unity-LightChaser) & [Unity-FarmStory](https://github.com/AstroWYH/Unity-FarmStory)
+Unity游戏：[Unity-FarmStory](https://github.com/AstroWYH/Unity-FarmStory)
+
+UE5推荐项目：GAS:Lyra, Aruo, Action RPG; 服务器网络复制:Lyra, MultiPlayerBlaster; Mass框架：MassSample
 
 ### 🌱 图形 & 图像
 
