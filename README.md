@@ -10,9 +10,9 @@
 
 - **UE5 虚幻引擎笔记**: [UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
   - 框架 / 模块 / 工具 / 网络 / 性能 / 渲染 / AI / Lua / Lyra 等
-- **UE5 背包系统 MVC 实现**: [Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory) (Private)
-- **UE5 渲染 Shader & Render 管线实现**: [Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo) (Private)
-- **UE5 C++ 反射到蓝图 / Lua 实现**: [Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes) (Private)
+- **UE5 背包系统 MVC 最小工程实现**: [Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory) (Private)
+- **UE5 渲染 Shader & Render 管线最小工程实现**: [Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo) (Private)
+- **UE5 C++ 反射到蓝图 / Lua 最小工程实现**: [Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes) (Private)
 - **UE5 个人英雄联盟项目**: [UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game) (Private, WIP)
 - **UE5 蓝图 / C++ 基础对照 Demo**: [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) (Private)
 - **推荐 UE5 项目**: GAS:Lyra, Aruo, Action RPG; 服务器网络:Lyra, MultiPlayerBlaster; Mass框架：MassSample
