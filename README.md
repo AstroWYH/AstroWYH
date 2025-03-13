@@ -2,11 +2,11 @@
 
 ### 🌱 基础
 
-C++杂项基础知识笔记：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
+C++各类杂项基础知识：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 
-LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
+LeetCode数据结构&算法刷题：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 
-23种设计模式手写实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
+23种设计模式手写实现：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
 ### 🌱 游戏
 
