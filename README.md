@@ -2,11 +2,9 @@
 
 ### 🌱 基础
 
-C++各类基础知识笔记：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
+C++杂项基础知识笔记：[Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 
 LeetCode数据结构&算法刷题笔记：[LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
-
-Android Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
 
 23种设计模式手写实现笔记：[Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
@@ -26,15 +24,13 @@ Unity游戏：[Unity-LightChaser](https://github.com/AstroWYH/Unity-LightChaser)
 
 图形学、OpenGL、Glsl、Unity Shader常用知识笔记：[OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
 
-图像处理OpenCV常用方法（毛星云版）整理：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
-
 机器学习&深度学习（吴恩达/Tudui）&TensorFlow/Pytorch笔记：[DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
 
-LearnOpenGLCN在线开源课程学习&代码注释：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
+LearnOpenGL在线课程学习作业：[LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
 
 Games101 C++软渲染管线作业：[Games101-Render-Pipeline-Homework](https://github.com/AstroWYH/Games101-Render-Pipeline-Homework)
 
-Games101课堂笔记（渲染、几何、光线追踪、动画模拟）：[Games101-Class-Notes](https://github.com/AstroWYH/Games101-Class-Notes)
+Android Dev工程开发问题积累笔记：[Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
 
 手写Android/Java相机APP，OpenGL/Glsl作多滤镜效果，Mediapipe作C++框架：[YooHanPark](https://github.com/AstroWYH/YooHanPark)
 
