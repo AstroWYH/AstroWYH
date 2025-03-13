@@ -1,6 +1,6 @@
 # 🌌 AstroWYH 的技术笔记
 
-### 🪐 **程序基础**
+### 📝 **程序基础**
 
 - **C++ 杂项笔记**: [Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
 - **LeetCode 刷题记录**: [LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
@@ -19,7 +19,7 @@
 - **推荐 Unity 项目**: TowerDefense, GFW, jynew, FarmStory
 - **推荐 Godot 项目**: Brotato, Luck be a Landlord, Word Game
 
-### 🎨 **图形 & 图像**
+### 🖼️ **图形 & 图像**
 
 - **图形学 & OpenGL & Glsl & Unity Shader 笔记**: [OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
 - **机器学习 & 深度学习笔记**: [DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
