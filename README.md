@@ -1,7 +1,5 @@
 # 🌌 AstroWYH 的技术笔记
 
----
-
 ### 🪐 **编程基础**
 
 - **C++ 杂项笔记**: [Cpp-Basic-Notes](https://github.com/AstroWYH/Cpp-Basic-Notes)
