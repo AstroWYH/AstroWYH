@@ -9,7 +9,7 @@
 ### 🎮 **游戏开发**
 
 - **UE5 虚幻引擎笔记**: [UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
-  - 框架 / 工具 / 网络 / 性能 / 渲染 / AI / Lua / Lyra 等
+  - 框架 / 模块/ 工具 / 网络 / 性能 / 渲染 / AI / Lua / Lyra 等
 - **UE5 背包系统 MVC 实现**: [Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory) (Private)
 - **UE5 渲染 Shader & Render 管线实现**: [Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo) (Private)
 - **UE5 C++ 反射到蓝图 / Lua 实现**: [Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes) (Private)
