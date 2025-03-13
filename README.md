@@ -15,7 +15,7 @@
 - **UE5 C++ 反射到蓝图 / Lua 最小工程实现**: [Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes) (Private)
 - **UE5 个人英雄联盟项目**: [UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game) (Private, WIP)
 - **UE5 蓝图 / C++ 基础对照 Demo**: [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP) & [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5) (Private)
-- **推荐 UE5 项目**: GAS:Lyra, Aruo, Action RPG; 服务器网络:Lyra, MultiPlayerBlaster; Mass框架：MassSample
+- **推荐 UE5 项目**: GAS:Lyra, Aura, Action RPG; 服务器网络:Lyra, MultiPlayerBlaster; Mass框架：MassSample
 - **推荐 Unity 项目**: TowerDefense, GFW, jynew, FarmStory
 - **推荐 Godot 项目**: Brotato, Luck be a Landlord, Word Game
 
