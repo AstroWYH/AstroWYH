@@ -23,6 +23,7 @@
 ### 🖼️ **图形 & 图像**
 
 - **图形学 & OpenGL & Glsl & Unity Shader 笔记**: [OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
+- **图像处理 OpenCV 笔记(毛星云版整理)**：[OpenCV3-Code-Notes](https://github.com/AstroWYH/OpenCV3-Code-Notes)
 - **机器学习 & 深度学习笔记**: [DeepLearning-Pytorch-Notes](https://github.com/AstroWYH/DeepLearning-Pytorch-Notes)
 - **LearnOpenGL 课程作业**: [LearnOpenGLCN-Notes](https://github.com/AstroWYH/LearnOpenGLCN-Notes)
 - **Games101 软渲染管线作业**: [Games101-Render-Pipeline-Homework](https://github.com/AstroWYH/Games101-Render-Pipeline-Homework)
