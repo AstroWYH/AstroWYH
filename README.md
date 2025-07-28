@@ -17,13 +17,15 @@
 
 #### 🧩 UE5 最小工程实现
 
-- **Mass框架 ECS 实现**：[Eve-Mass-Demo](https://github.com/AstroWYH/Eve-Mass-Demo)
+- **Mass 框架 ECS 实现**：[Eve-Mass-Demo](https://github.com/AstroWYH/Eve-Mass-Demo)
 - **渲染 Shader & Render 管线**：
    [Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo)
    [Eve-Render-Demo](https://github.com/AstroWYH/Eve-Render-Demo)
-- **反射到蓝图 / Lua 工程**：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
+- **UE5 C++ 反射到 Lua 实现**：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 - **背包系统 MVC 实现**：[Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory)
-- **个人英雄联盟项目**：[UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game)（WIP）
+- **M地图模块实现**：[Eve-Map待定](https://github.com/AstroWYH/Eve-Inventory)
+- **多地图智能导航实现**：[Eve-Map待定](https://github.com/AstroWYH/Eve-Inventory)
+- **仿英雄联盟项目**：[UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game)（WIP）
 - **蓝图 / C++ 对照 Demo**：
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
    [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
