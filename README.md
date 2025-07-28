@@ -6,14 +6,14 @@
 - **LeetCode 刷题记录**: [LeetCode-Notes](https://github.com/AstroWYH/LeetCode-Notes)
 - **23 种设计模式实现**: [Design-Patterns](https://github.com/AstroWYH/Design-Patterns)
 
+------
+
 ### 🎮 **游戏开发**
 
 #### 📘 UE5 虚幻引擎笔记
 
 - [UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
    包含：框架 / 模块 / 工具 / 网络 / 性能 / 渲染 / AI / Lua / Lyra 等内容整理
-
-------
 
 #### 🧩 UE5 最小工程实现（Private）
 
@@ -28,8 +28,6 @@
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
    [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
-------
-
 #### ⭐ 推荐学习项目
 
 - **UE5 推荐项目**：
@@ -41,6 +39,8 @@
 - **Godot 推荐项目**：
    Brotato, Luck be a Landlord, Word Game
 
+------
+
 ### 🖼️ **图形 & 图像**
 
 - **图形学 & OpenGL & Glsl & Unity Shader 笔记**: [OpenGL-Shader-Notes](https://github.com/AstroWYH/OpenGL-Shader-Notes)
@@ -50,12 +50,16 @@
 - **Games101 软渲染管线作业**: [Games101-Render-Pipeline-Homework](https://github.com/AstroWYH/Games101-Render-Pipeline-Homework)
 - **Android/Java 相机 APP & OpenGL/Glsl 滤镜 & Mediapipe 框架**: [YooHanPark](https://github.com/AstroWYH/YooHanPark)
 
+------
+
 ### ⚡ **性能优化**
 
 - **Android Dev 性能功耗问题笔记**: [Engineering-Dev-Issues](https://github.com/AstroWYH/Engineering-Dev-Issues)
 - **并发高性能计算笔记**: [Concurrency-MT-Notes](https://github.com/AstroWYH/Concurrency-MT-Notes)
   - GPU (Cuda/OpenCL) / CPU (SIMD/ArmNeon) 指令加速
 - **MIT Pess 性能工程课程作业**: [Pess-Class-Notes](https://github.com/AstroWYH/Pess-Class-Notes)
+
+------
 
 ### 🛠️ **IDE 环境**
 
