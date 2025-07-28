@@ -15,7 +15,7 @@
 - [UE5-CPP-Notes](https://github.com/AstroWYH/UE5-CPP-Notes/tree/main)
    框架 / 模块 / 工具 / 网络 / 性能 / 渲染 / AI / Lua / Lyra 等内容整理
 
-#### 🧩 UE5 最小工程实现
+#### 🧩 UE5 最小工程模块实现
 
 - **Mass 框架 ECS 实现**：[Eve-Mass-Demo](https://github.com/AstroWYH/Eve-Mass-Demo)
 - **渲染 Shader & Render 管线**：
