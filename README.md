@@ -26,7 +26,7 @@
 - **M 地图模块实现**：[Eve-Map待定](https://github.com/AstroWYH/Eve-Inventory)
 - **多地图智能导航实现**：[Eve-Map待定](https://github.com/AstroWYH/Eve-Inventory)
 - **仿英雄联盟项目**：[UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game)（WIP）
-- **蓝图 / C++ 对照 Demo**：
+- **蓝图 / C++ 完全对照 Demo**：
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
    [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
 
