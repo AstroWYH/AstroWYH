@@ -29,6 +29,7 @@
 - **蓝图 / C++ 完全对照 Demo**：
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
    [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
+- **Godot 仿GoldenIdol项目**：[Godot-GoldenIdol](https://github.com/AstroWYH/goldenidol-dev)
 
 #### ⭐ 推荐学习项目
 
