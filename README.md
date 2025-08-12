@@ -24,6 +24,7 @@
 - **背包模块 MVC 实现**：[Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory)
 - **M 键地图模块实现**：[Eve-Map](https://github.com/AstroWYH/Eve-Map)
 - **Dedicated 专用服务器/客户端最小工程**：[Eve-Server-Demo](https://github.com/AstroWYH/Eve-Server-Demo)
+- **C# 仿 UE GAS 游戏能力系统实现**：[Eve-GAS-CSharp](https://github.com/AstroWYH/Eve-GAS-CSharp)
 - **仿英雄联盟项目**：[UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game)（WIP）
 - **蓝图 / C++ 完全对照 Demo**：
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
