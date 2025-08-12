@@ -29,7 +29,6 @@
 - **蓝图 / C++ 完全对照 Demo**：
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
    [FirstPerson-Demo-UE5](https://github.com/AstroWYH/FirstPerson-Demo-UE5)
-- **Godot 仿GoldenIdol项目**：[Godot-GoldenIdol](https://github.com/AstroWYH/goldenidol-dev)
 
 #### ⭐ 推荐学习项目
 
@@ -40,7 +39,7 @@
 - **Unity 推荐项目**：
    TowerDefense, GFW, jynew, FarmStory
 - **Godot 推荐项目**：
-   Brotato, Luck be a Landlord, Word Game
+   Brotato, Luck be a Landlord, Word Game, [Godot-GoldenIdol](https://github.com/AstroWYH/goldenidol-dev)
 
 ------
 
