@@ -39,7 +39,7 @@
 - **Unity 推荐项目**：
    TowerDefense, GFW, jynew, FarmStory
 - **Godot 推荐项目**：
-   Brotato, Luck be a Landlord, Word Game, [GoldenIdol](https://github.com/AstroWYH/goldenidol-dev)
+   Brotato, Luck be a Landlord, Word Game, [GoldenIdol](https://github.com/AstroWYH/Godot-GoldenIdol)
 
 ------
 
