@@ -32,7 +32,7 @@
 #### ⭐ 推荐学习项目
 
 - **UE5 推荐项目**：
-  - GAS：Lyra, Aura, Action RPG
+  - GAS：Lyra, Ninja Combat, Aura, Action RPG
   - 网络/多人：Lyra, MultiPlayerBlaster
   - Mass 框架：MassSample
 - **Unity 推荐项目**：
