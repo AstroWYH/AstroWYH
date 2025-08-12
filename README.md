@@ -20,10 +20,11 @@
 - **Mass 框架 ECS 实现**：[Eve-Mass-Demo](https://github.com/AstroWYH/Eve-Mass-Demo)
 - **渲染 Shader & Render 管线**：
    [Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo)
-   [Eve-Render-Demo](https://github.com/AstroWYH/Eve-Render-Demo)
-- **从 C++ 反射到 Lua 实现**：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
-- **背包系统 MVC 实现**：[Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory)
-- **M 地图模块实现**：[Eve-Map待定](https://github.com/AstroWYH/Eve-Inventory)
+   [Eve-Render-Demo](https://github.com/AstroWYH/Eve-Render-Demo)（WIP）
+- **从 U++ 反射到 Lua 实现**：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
+- **背包模块 MVC 实现**：[Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory)
+- **M 键地图模块实现**：[Eve-Map](https://github.com/AstroWYH/Eve-Map)
+- **Dedicated 专用服务器/客户端最小工程**：[Eve-Server-Demo](https://github.com/AstroWYH/Eve-Server-Demo)
 - **仿英雄联盟项目**：[UE5-Mix-Game](https://github.com/AstroWYH/UE5-Mix-Game)（WIP）
 - **蓝图 / C++ 完全对照 Demo**：
    [FirstPerson-Demo-UE5-BP](https://github.com/AstroWYH/FirstPerson-Demo-UE5-BP)
