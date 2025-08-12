@@ -20,7 +20,6 @@
 - **Mass 框架 ECS 实现**：[Eve-Mass-Demo](https://github.com/AstroWYH/Eve-Mass-Demo)
 - **渲染 Shader & Render 管线**：
    [Eve-Shader-Demo](https://github.com/AstroWYH/Eve-Shader-Demo)
-   [Eve-Render-Demo](https://github.com/AstroWYH/Eve-Render-Demo)（WIP）
 - **从 U++ 反射到 Lua 实现**：[Lua-C-Notes](https://github.com/AstroWYH/Lua-C-Notes)
 - **背包模块 MVC 实现**：[Eve-Inventory](https://github.com/AstroWYH/Eve-Inventory)
 - **M 键地图模块实现**：[Eve-Map](https://github.com/AstroWYH/Eve-Map)
