@@ -65,8 +65,6 @@
 
 ### 🛠️ **IDE 环境**
 
-- **跨平台开发环境配置**: [Dev-Environment](https://github.com/AstroWYH/Dev-Environment)
-  - Windows / Linux / Mac
 - **IDE 配置与优化**: [IDE-Configs](https://github.com/AstroWYH/IDE-Configs)
   - Visual Studio 2022 / VsCode / Rider / AS
   - 工具 / 插件 / 快捷键 / 主题
